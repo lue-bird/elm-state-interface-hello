@@ -2,6 +2,7 @@ Minimal setup for an [`elm-state-interface`](https://dark.elm.dmy.fr/packages/lu
 
 ```bash
 git clone https://github.com/lue-bird/elm-state-interface-hello.git && \
+cd elm-state-interface-hello && \
 npm install && \
 npx vite
 ```
