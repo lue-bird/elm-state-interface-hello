@@ -1,18 +1,14 @@
 port module Main exposing (main)
 
+import Json.Encode
 import Web
-import Web.Dom
-
-
-type alias State =
-    ()
 
 
 main : Web.Program State
 main =
     Web.program
-        { initialState = ()
-        , interface = \() -> Web.Dom.text "hello" |> Web.Dom.render
+        { initialState = App.app.initialState
+        , interface = App.app.interface
         , ports = { fromJs = fromJs, toJs = toJs }
         }
 
