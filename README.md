@@ -14,3 +14,7 @@ For all future runs, you just need
 ```noformatingples
 npx vite
 ```
+
+Links to the tools:
+  - [vite](https://vitejs.dev/)
+  - [ryan-haskell/vite-plugin-elm-watch](https://github.com/ryan-haskell/vite-plugin-elm-watch)
