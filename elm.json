@@ -15,14 +15,9 @@
             "elm/time": "1.0.0",
             "elm/url": "1.0.0",
             "ianmackenzie/elm-units": "2.10.0",
-            "lue-bird/elm-allowable-state": "1.0.2",
-            "lue-bird/elm-and-or": "1.0.0",
-            "lue-bird/elm-bounded-nat": "35.0.0",
-            "lue-bird/elm-emptiness-typed": "9.2.1",
-            "lue-bird/elm-keysset": "5.0.2",
             "lue-bird/elm-no-record-type-alias-constructor-function": "1.0.8",
-            "lue-bird/elm-typed-value": "8.2.0",
             "lydell/elm-app-url": "1.0.4",
+            "miniBill/elm-fast-dict": "1.1.0",
             "miniBill/elm-rope": "1.0.0"
         }
     },
