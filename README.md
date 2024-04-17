@@ -7,7 +7,7 @@ npm install && \
 npx vite
 ```
   - open http://localhost:5173/ to see your app
-  - open `src/App.elm` in an editor to paste in example code and fiddle around yourself. The website updates automatically
+  - open `src/App.elm` in an editor to paste in example code and fiddle around yourself
 
 
 For all future runs, you just need
