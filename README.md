@@ -1,6 +1,6 @@
 Minimal setup for an [`elm-state-interface`](https://dark.elm.dmy.fr/packages/lue-bird/elm-state-interface/latest/) app
 
-```noformatingples
+```shell
 git clone https://github.com/lue-bird/elm-state-interface-hello.git && \
 cd elm-state-interface-hello && \
 npm install && \
@@ -11,7 +11,7 @@ npx vite
 
 
 For all future runs, you just need
-```noformatingples
+```shell
 npx vite
 ```
 
